@@ -1,0 +1,175 @@
+@media only screen and (max-width:700px) {
+
+    .cont1
+    {
+        margin-left: 3%;
+        margin-right: 3%;
+        width: 94%;
+        font-family: sans-serif;
+    }
+
+    .cont1 h1 
+    {
+        font-size: 30px;
+    }
+
+    .cont1 p
+    {
+        width: 90%;
+        font-size: 19px;
+    }
+
+    .cont1 button, .cont2a button 
+    {
+        font-size: 12px;
+        font-weight: 700;
+    }
+
+    #content2
+    {
+        height: auto;
+    }
+
+    .cont2{
+        margin: 20px 3%;
+        width: 94%;
+        height: auto;
+    }
+
+    .cont2a
+    {
+        width: 100%;
+        float: left;
+        height: auto;
+        padding-bottom: 25px;
+    }
+
+    .cont2a p
+    {
+        padding-right: 0px;
+        text-align: justify;
+        margin: 20px 0px;
+        font-size: 12px;
+    }
+
+    .cont2b
+    {
+        width: 100%;
+        float: left;
+        height: auto;
+    }
+
+    .imgleft, .imgright
+    {
+        height: 200px;
+    }
+    .cont2b img
+    {
+        height: 180px;
+    }
+
+    .horizontal
+    {
+        height: 200px;
+    }
+
+    /* content3 start */
+
+    #content3
+    {
+        height: auto;
+    }
+    .cont3
+    {
+        margin: 20px 3%;
+        width: 94%;
+        height: auto;
+    }
+    .cont3_p
+    {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        font-size: 12px;
+    }
+
+    .cont3div
+    {
+        width: 94%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .two
+    {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    /* footer style */
+
+    #footer
+    {
+        height: auto;
+        color: black;
+    }
+
+    .footleft, .footright
+    {
+        width: 94%;
+        height: auto;
+        margin-right: 3%;
+        margin-left: 3%;
+    }
+    .footlinks, .footaddress, .footrightleft, .footrightright
+    {
+        width: 100%;
+    }
+
+    /* navigation link */
+
+    #btnmenu
+    {
+        display: block;
+        width: 80%;
+        margin: 10px 10%;
+        font-weight: 700;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: cornflowerblue;
+    }
+
+    #menu
+    {
+        width: 80%;
+        height: 400px;
+        margin-right: 10%;
+        margin-left: 10%;
+        position: absolute;
+
+    }
+    #menu ul
+    {
+        width: 85%;
+        margin-right: 0px;
+        margin-left: 0px;
+        padding: 0px;
+    }
+    #menu ul li
+    {
+        width: 100%;
+        float: left;
+        font-size: 19px;
+        margin-top: 10px;
+        list-style: none;
+        padding: 10px;
+        background-color: cornflowerblue;
+    }
+
+    #menu
+    {
+        display: none;
+    }
+    
+
+    
+    
+}
